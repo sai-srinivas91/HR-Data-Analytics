@@ -1,2 +1,3 @@
-# HR-Data-Analytics
-A Dashboard to track employee data for the HR team including working hours, attendance, performance and leaves.
+**HR Data Analytics** was a real-world project involving the analysis of employee data and their attendance records at Atliq Company. The HR department often faced challenges in managing a large Excel file containing extensive and disorganized records, leading to a cumbersome process.
+
+At the end of each month, the HR team had to handle various tasks, such as determining the number of absences, calculating the total number of days an individual was absent, tracking the number of employees who opted for work-from-home, recording sick leave instances, monitoring the frequency of half-day attendance, and accounting for weekly off and holiday offs.
