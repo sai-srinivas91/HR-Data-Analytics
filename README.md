@@ -36,7 +36,7 @@ These contrasting trends indicate the dynamic nature of employee preferences and
 
 The WFH rate in May was higher compared to the other two months, indicating a greater preference for remote work during that period. However, despite the increased WFH rate, the trend line suggests a slight decrease in the WFH rate over time.
 
-The implementation of this streamlined HR process and the utilization of this dashboard have resulted in increased efficiency and can save approximately 3-4 hours of work on a daily basis. The automated insights and data visualization provided by the dashboard significantly reduce the time required for manual data analysis and reporting, enabling HR professionals to focus on more strategic and value-added tasks.
+The implementation of this streamlined HR process and the utilization of this dashboard have resulted in increased efficiency and can save approximately **3-4 hours of work** on a daily basis. The automated insights and data visualization provided by the dashboard significantly reduce the time required for manual data analysis and reporting, enabling HR professionals to focus on more strategic and value-added tasks.
 
 
 
